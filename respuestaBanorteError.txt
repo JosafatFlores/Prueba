@@ -1,2 +1,2 @@
-﻿Valor demasiado grande o demasiado pequeño para Int32.g cambio2
+﻿Valor demasiado grande o demasiado pequeño para Int32.g cambio
  
